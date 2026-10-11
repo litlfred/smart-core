@@ -1,0 +1,11 @@
+{
+  "$schema": "cat-harness-declaration/1.0.0",
+  "name": "smart-core",
+  "repository": "litlfred/smart-core",
+  "title": "WHO Core Implementation Guide",
+  "description": "The WHO Core IG (legacy, pre-SUSHI: core.xml, data-element profiles), as a harnessed instance of smart-base. Whether fhir-harness's pipeline can build it is open (bean n3h9). Declared with no directories yet: what it holds is seeded later (n3h9, 53rv), and a declared-but-absent directory is the dh4f defect.",
+  "needs": [
+    "smart-base"
+  ],
+  "directories": []
+}
